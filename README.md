@@ -4,8 +4,9 @@ STAMPsy is a spatiotemporal-aware mixed-type dialogue dataset for online psychol
 
 This repo is for the paper: **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling**
 
-Accepted by AAAI [arxiv paper link](https://arxiv.org/abs/2412.16674)
+Accepted by AAAI, Oral Presentation [arxiv paper link](https://arxiv.org/abs/2412.16674)
 
+An example of STAMPsy with spatiotemporal state and reference knowledge.
 
 
 ## 获取STAMPsy | Access to STAMPsy
