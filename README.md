@@ -7,6 +7,7 @@ This repo is for the paper: **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type D
 Accepted by AAAI, Oral Presentation [arxiv paper link](https://arxiv.org/abs/2412.16674)
 
 An example of STAMPsy with spatiotemporal state and reference knowledge.
+<img width="1403" alt="WPS Office 2025-04-30 11 37 15" src="https://github.com/user-attachments/assets/9203d5a9-99f0-4cf8-bffa-fe07a4962a93" />
 
 
 ## 获取STAMPsy | Access to STAMPsy
