@@ -14,8 +14,7 @@ An example of STAMPsy with spatiotemporal state and reference knowledge.
 
 我们提供了少部分STAMPsy的样例（STAMPsy_example.json）
 
-为确保数据使用的合法合规，完整数据集的获取需要签署使用用户协议，目前专业团队正在对协议内容进行最终合规审查和技术认证，待全部流程完成后，我们将立即上传到仓库，欢迎STAR本仓库以获取最新资讯。
-届时您可随时访问平台查阅完整协议文本，并按照指引文档逐步完成相关操作流程：如您同意规定，请在用户协议中填写相关用户信息，【授权时间】，并在协议最后【电子签名】，将pdf格式的用户协议发送到邮箱 wake_up@foxmail.com。 我们在审核后会通过邮件发送完整的数据集的下载链接。
+为确保数据使用的合法合规，完整数据集的获取需要签署使用用户协议，按照指引文档逐步完成相关操作流程：如您同意规定，请在用户协议中填写相关用户信息，【授权时间】，并在协议最后【电子签名】，将pdf格式的用户协议发送到邮箱 wake_up@foxmail.com。 我们在审核后会通过邮件发送完整的数据集的下载链接。
 
 The English version of STAMPsy user agreement is soon coming.
 
